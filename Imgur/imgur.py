@@ -2,6 +2,7 @@ __author__ = 'graham'
 import pyimgur
 
 def imgur(path):
+
     f = open('Imgur_auth_file.txt')
     lines = f.readlines()
     f.close()
