@@ -26,5 +26,5 @@ SecretStorage==2.3.1
 six==1.14.0
 tweepy==3.8.0
 update-checker==0.16
-urllib3==1.25.8
+urllib3==1.26.5
 zope.interface==4.7.1
